@@ -1,87 +1,24 @@
-# Hi 👋, I'm Narayan Yadav
+# 💫 About Me:
+ I'm Narayan Yadav 👋<br><br>I'm a final-year Electronics and Telecommunication Engineering student passionate about Embedded Systems, Firmware Development, IoT, and Semiconductor Technology.<br><br>I enjoy designing embedded solutions using **STM32, ESP32, Raspberry Pi, Arduino, and sensor-based systems**. My interests include microcontrollers, embedded C, hardware interfacing, PCB design, Embedded Linux, and AI at the edge.<br><br>### 🛠️ Tech Stack<br><br>* **Languages:** C, Python, MATLAB<br>* **Microcontrollers:** STM32, ESP32, Arduino<br>* **Platforms:** Raspberry Pi<br>* **Tools:** Proteus, CST Studio Suite, Git, GitHub<br><br>### 🚀 Featured Projects<br><br>* Smart Cut-Off Switchboard<br>* AI-Based Traffic Signal System<br>* Antenna Design & Simulation (CST)<br><br>I'm currently looking for opportunities in **Embedded Systems, Firmware Engineering, IoT, and Semiconductor R&D**.<br><br>📫 Feel free to connect, collaborate, or explore my projects!<br>
 
-### Electronics & Telecommunication Engineering Student
 
-I am passionate about
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadavnarayan86) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narayanyadav04/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/narayanvirendray) 
 
-- Embedded Systems
-- Firmware Development
-- Robotics
-- Raspberry Pi
-- ESP32
-- STM32
-- PCB Design
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yadavnarayan2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yadavnarayan2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yadavnarayan2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yadavnarayan2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔧 Technologies & Tools
-
-### Programming
-
-- C Programming
-- Python
-
-### Embedded
-
-- ESP32
-- Raspberry Pi 4
-- Arduino UNO
-- STM32 (Learning)
-
-### Protocols
-
-- UART
-- SPI
-- I2C
-- RS485
-- PWM
-
-### Software
-
-- Git
-- GitHub
-- Arduino IDE
-- Proteus
-- CST Studio
-
-### Hardware
-
-- Oscilloscope
-- Function Generator
-- Multimeter
-- PCB Troubleshooting
-- Soldering
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yadavnarayan2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=yadavnarayan2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Current Project
-
-Industrial Inspection Crawler Robot
-
-Features
-
-- ESP32 Wireless Control
-- Raspberry Pi Live Streaming
-- Pan Tilt Camera
-- Motor Driver Control
-- Battery Management
-
----
-
-## 🌱 Currently Learning
-
-- STM32
-- FreeRTOS
-- Embedded Linux
-- Verilog
-- PCB Design
-- Linux Device Drivers
-
----
-
-## 📫 Contact
-
-Email: yadavnarayan0604@gmail.com
-
-LinkedIn:
-https://linkedin.com/in/narayanyadav04
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
