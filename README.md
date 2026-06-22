@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋, I'm Narayan Yadav
 
-<!--
-**yadavnarayan2004/yadavnarayan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Telecommunication Engineering Student
 
-Here are some ideas to get you started:
+I am passionate about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded Systems
+- Firmware Development
+- Robotics
+- Raspberry Pi
+- ESP32
+- STM32
+- PCB Design
+
+---
+
+## 🔧 Technologies & Tools
+
+### Programming
+
+- C Programming
+- Python
+
+### Embedded
+
+- ESP32
+- Raspberry Pi 4
+- Arduino UNO
+- STM32 (Learning)
+
+### Protocols
+
+- UART
+- SPI
+- I2C
+- RS485
+- PWM
+
+### Software
+
+- Git
+- GitHub
+- Arduino IDE
+- Proteus
+- CST Studio
+
+### Hardware
+
+- Oscilloscope
+- Function Generator
+- Multimeter
+- PCB Troubleshooting
+- Soldering
+
+---
+
+## 🚀 Current Project
+
+Industrial Inspection Crawler Robot
+
+Features
+
+- ESP32 Wireless Control
+- Raspberry Pi Live Streaming
+- Pan Tilt Camera
+- Motor Driver Control
+- Battery Management
+
+---
+
+## 🌱 Currently Learning
+
+- STM32
+- FreeRTOS
+- Embedded Linux
+- Verilog
+- PCB Design
+- Linux Device Drivers
+
+---
+
+## 📫 Contact
+
+Email: yadavnarayan0604@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/narayanyadav04
